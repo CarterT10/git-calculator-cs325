@@ -5,7 +5,7 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-print(">>> Super Calculator: Version B <<<")
+print("=== Team Calculator 1.0 ===")
 
 def divide(a, b):
     if b == 0: return "Error: Division by zero"
